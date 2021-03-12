@@ -1,2 +1,6 @@
 The ship glides gently on the waves
+<<<<<<< HEAD
 Fill the starlit sky
+=======
+As day turns into night
+>>>>>>> feature
